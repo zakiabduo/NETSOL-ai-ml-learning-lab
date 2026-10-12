@@ -83,8 +83,8 @@ it.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR-USERNAME/ai-ml-learning-lab.git
-cd ai-ml-learning-lab
+git clone https://github.com/zakiabduo/NETSOL-ai-ml-learning-lab.git
+cd NETSOL-ai-ml-learning-lab
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
@@ -193,10 +193,9 @@ explored.
 I'm learning and building in the areas of **Artificial Intelligence,
 Machine Learning, Python, and Software Engineering**.
 
--   **GitHub:** https://github.com/YOUR-USERNAME
+-   **GitHub:** https://github.com/zakiabduo
 -   **Portfolio:** https://abdulrehman-zaki.vercel.app/
 
-Replace `YOUR-USERNAME` with your GitHub username before publishing.
 
 ------------------------------------------------------------------------
 
